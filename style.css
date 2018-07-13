@@ -1,0 +1,137 @@
+body {
+    font-family: 'Trebuchet MS', Verdana, Arial;
+    color: #000000;
+    background-color: #bfbfbf;
+    background-image: url("grey.jpg");  
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: #CECECE;
+}
+
+h2 {
+    margin-top: -13px; 
+    color: #df0700;
+    font-style: italic;
+}
+h3 {
+    margin-top: -13px; 
+    color: #308014; 
+    font-style: italic;
+}
+
+#title {
+    width:930px; 
+    height: 120px; 
+    margin:0 auto; 
+    padding:10px; 
+    text-align:center; 
+    background-color: #161616; 
+    background-position: 10px bottom; 
+    background-repeat: no-repeat;
+}
+
+#content {
+	background-color: #161616;
+    border: 1px solid #CC0000; 
+    width: 930px; 
+    margin: 0 auto; 
+    padding: 10px;
+    text-align:right;  
+    font-size: 11px; 
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+p {
+    line-height: 180%; 
+    text-indent: 50px;
+}
+
+p.sub {
+    line-height: 180%; 
+    text-indent: 50px; 
+    background-color: #CECECE; 
+    color: #161616; 
+    padding:10px; 
+    margin:-10px;
+}
+
+p.company {
+    line-height: normal; 
+    text-indent: inherit;
+}
+
+p.rights {
+    margin-top: -13px;
+    line-height: normal; 
+    text-indent: inherit;
+}
+
+#footer {
+    width: 950px; 
+    margin: 0 auto; 
+    padding: 10px; 
+    font-size: 15px;
+}
+
+/** WYGLĄD FORMULARZA **/
+
+div.sub {
+	background-image: url(http://templatemints.com/rttheme13/images/background_images/abstract_background7.jpg);
+    background-color: #CECECE; 
+    color: #161616; 
+    padding:10px; 
+    margin:-10px;
+}
+
+div.contentForm {
+    width: 650px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    min-height: 100px;
+    margin: 0 auto;
+}
+
+div.contentForm fieldset {
+    
+    text-align: center;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+div.contentForm fieldset legend {
+    font-size: 15px;
+}
+
+input {
+    width: 150px;
+    height: 20px;
+    font-family: 'Trebuchet MS', Verdana, Arial; 
+}
+input.btn {
+    height: 30px;
+    width: 157px;
+    margin-left: 32px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
